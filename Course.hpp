@@ -1,1 +1,1 @@
-// TODO:  Course class definitins go here.
+// TODO:  Course class definitions go here.
